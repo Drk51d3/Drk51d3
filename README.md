@@ -1,16 +1,15 @@
 <!--
-**Drk51d3/Drk51d3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Drk51d3/Drk51d3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔭 I head up the Cybersecurity Consulting team at JT 
+🌱 I’m always learning new things and constantly pushing myself into new areas
+👯 I’m really interested in OSINT, Threat Intelligence, Red Teaming
+😄 I setup the Cyber Academy to teach offensive cybersecurity to 14 - 17 year old students in the Channel Island's
+💬 Ask me about anything!
+📫 How to reach me: 
+      Twitter - @johnebridge
+      Discord - @Drk51d3
+⚡ Fun fact: Outside of Cybersecurity, I am a massive Pompey and motoGP fan, I have a home made pub in my back garden and hobbies include Laser cutting / burning crafts
 -->
 TraceLabs CTF events
 
